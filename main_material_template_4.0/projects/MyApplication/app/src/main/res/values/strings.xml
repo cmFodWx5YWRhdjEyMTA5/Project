@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="take_photo">take photo</string>
+    <string name="pick_from_gallery">gallery</string>
+    <string name="remove_image">remove</string>
+    <string name="cancel">cancel</string>
+    <string name="add_image">new image</string>
+    <string name="select_file">Seleccionar</string>
+</resources>

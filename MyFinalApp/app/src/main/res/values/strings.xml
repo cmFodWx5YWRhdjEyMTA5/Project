@@ -1,0 +1,5 @@
+<resources>
+    <string userName="app_name">MyFinalApp</string>
+    <string userName="email_address">Email Address</string>
+    <string userName="password">Password</string>
+</resources>
